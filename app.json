@@ -1,8 +1,8 @@
 {
-  "name": "WhatGPT",
+  "name": "InfinityAI",
   "description": "Whatsapp bot for GPT-3. Made with Whatsapp Web and OpenAI.",
   "keywords": ["whatsapp", "bot", "gpt-3", "openai", "dall-e", "api"],
-  "repository": "https://github.com/imasimali/what-gpt",
+  "repository": "https://github.com/EscaliBud/InfinityAI",
   "success_url": "/",
   "buildpacks": [
     {
@@ -15,15 +15,15 @@
   "env": {
     "OPENAI_KEY": {
       "required": true,
-      "value": ""
+      "value": "sk-jdjdjdjjskskskskks"
     },
     "BOT_NUMBER": {
       "required": true,
-      "value": ""
+      "value": "12702410329"
     },
     "BOT_PERSONALITY": {
       "required": false,
-      "value": ""
+      "value": "Leave it blank"
     },
     "FIREBASE_DB_URL": {
       "required": false,
