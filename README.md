@@ -17,7 +17,7 @@ This bot allows users to interact with ChatGPT & DALL-E via WhatsApp text messag
 Clone this project with the command:
 
 ```bash
-  git clone https://github.com/imasimali/what-gpt.git
+  git clone https://github.com/EscaliBud/InfinityAI.git
 ```
 
 Get OpenAI api key for .env from [OpenAI](https://platform.openai.com/account/api-keys/).
