@@ -1,5 +1,5 @@
 {
-  "name": "What-GPT",
+  "name": "InfinityAI",
   "version": "1.0.0",
   "description": "Whatsapp bot AI. Made with WhatsappWeb.js, ChatGPT and DALL-E.",
   "keywords": [
@@ -10,8 +10,8 @@
     "dall-e",
     "api"
   ],
-  "author": "Asim Ali <hi@asimali.net>",
-  "repository": "https://github.com/imasimali/What-GPT",
+  "author": "EscaliBud <kresswell@proton.me>",
+  "repository": "https://github.com/EscaliBud/InfinityAI",
   "license": "Apache-2.0",
   "main": "index.js",
   "type": "module",
